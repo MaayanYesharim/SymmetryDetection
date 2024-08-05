@@ -1,4 +1,4 @@
-# SymmetryDetectionThesis
+# SymmetryDetection
 - A Python implementation of a symmerty detection algorithm
 - Examples for use on real and synthetic data
 
